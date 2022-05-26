@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Enemy
+  - sauattack
+  - sau
+  - bossarea
+  - Boss
+  - enemyattack
+  - activearea
+  - wallsprite
+  - wall1sprite
+  - infantrysprite
+  - Enemyparts
+  - Enemycoll
+  - breakpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - layer10
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: sky
+    uniqueID: 4206359897
+    locked: 0
+  - name: background2
+    uniqueID: 1167997749
+    locked: 0
+  - name: background
+    uniqueID: 1638225483
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: layer1
+    uniqueID: 215578093
+    locked: 0
+  - name: New Layer
+    uniqueID: 1860243891
+    locked: 0
+  - name: effects_1
+    uniqueID: 3431603153
+    locked: 0
+  - name: objects_1
+    uniqueID: 981379911
+    locked: 0
+  - name: objects_2
+    uniqueID: 578346745
+    locked: 0
+  - name: objects_3
+    uniqueID: 2892848283
+    locked: 0
+  - name: effects_2
+    uniqueID: 2599494957
+    locked: 0
+  - name: UI
+    uniqueID: 3961330681
+    locked: 0
